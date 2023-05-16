@@ -1,3 +1,4 @@
+# DEPRECATED. 已有更方便的汉化方式：[VCC Auto Translate](https://github.com/gizmo-ds/vcc-auto-translate)
 # VRChat Creator Companion 文本汉化包
 文本汉化包，采用的是半自动汉化
 
